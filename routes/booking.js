@@ -3,7 +3,7 @@ const { bookActivity, getMyBookings } = require('../controllers/booking.controll
 const authenticate = require('../middleware/auth.middleware');
 const router= express.Router();
 
-router.post('/', authenticate, bookActivity);
+router.post('/book', authenticate, bookActivity);
 router.get('/', authenticate, getMyBookings);
 
 
