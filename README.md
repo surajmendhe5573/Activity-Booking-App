@@ -2,13 +2,11 @@
 
 A simple REST API backend for a **Basic Activity Booking App**, inspired by MeetX use cases. This app allows users to register, login, explore available activities, book activities, and manage their bookings effortlessly.
 
----
 
 ## Objective
 
 The objective of this project is to create a backend service that supports core functionalities for a basic activity booking application. This includes user authentication, activity management, and booking operations.
 
----
 
 ## Features
 
@@ -197,8 +195,8 @@ Authorization: Bearer <JWT Token>
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/surajmendhe5573/News-Aggregator-App.git>
-   cd <News-Aggregator-App>
+   git clone <https://github.com/surajmendhe5573/Activity-Booking-App.git>
+   cd <Activity-Booking-App>
 
 
 ## Getting Started
