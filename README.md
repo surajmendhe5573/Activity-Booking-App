@@ -2,12 +2,6 @@
 
 A simple REST API backend for a **Basic Activity Booking App**, inspired by MeetX use cases. This app allows users to register, login, explore available activities, book activities, and manage their bookings effortlessly.
 
-
-## Objective
-
-The objective of this project is to create a backend service that supports core functionalities for a basic activity booking application. This includes user authentication, activity management, and booking operations.
-
-
 ## Features
 
 - User Registration and Login with JWT-based authentication.
