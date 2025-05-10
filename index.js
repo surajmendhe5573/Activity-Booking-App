@@ -18,4 +18,6 @@ app.use('/api/bookings', require('./routes/booking'));
 
 app.listen(port, ()=>{
     console.log(`Server is running on http://localhost:${port}`);
-})
+});
+
+module.exports = app;
